@@ -1,2 +1,2 @@
 # bookboxd
-Letterboxd clone for books
+In Progress
